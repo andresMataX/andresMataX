@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Mata</h1>
-<h3 align="center">A passionate frontend developer from Monterrey, México.</h3>
+<h3 align="center">A passionate jr web developer from Monterrey, México.</h3>
 
 - 🌱 I’m currently learning **React, Node, Next**
 
