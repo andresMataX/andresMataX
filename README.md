@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 <br> I'm Andrés Mata</h1>
 <h3 align="center">A passionate jr web developer from Monterrey, México 🌮. I enjoy to study 📚, love my cat 🐈, to use the technology 💻 and watch racing-sports 🏎</h3>
 
-- 🌱 I’m currently learning **React, Node, Next**
+- 🌱 I’m currently learning **ReactJS, NodeJS and TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://andresmatax.github.io/portafolio/](https://andresmatax.github.io/portafolio/)
 
